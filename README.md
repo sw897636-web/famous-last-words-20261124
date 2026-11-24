@@ -10,9 +10,9 @@ last words a phone says as its battery hits 1 percent.
 
 ## The entry
 
-> I've been at 1% for three hours. I just liked watching you panic every time the screen went dim.
+> I've been at 1% for three hours. I just liked watching you panic every time the screen dimmed.
 
-96 characters, one line, no trailing newline.
+94 characters, one line, no trailing newline.
 
 ## How it works
 

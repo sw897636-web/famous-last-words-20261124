@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "I've been at 1% for three hours. I just liked watching you panic every time the screen went dim.";
+  "I've been at 1% for three hours. I just liked watching you panic every time the screen dimmed.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
